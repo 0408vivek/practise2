@@ -4,4 +4,5 @@ def Car:
       self.brand=brand
 car1=Car("maruti","alto")
 car1.name()
+car1.brand()
     
